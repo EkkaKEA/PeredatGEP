@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 *.ert linguist-language=1C Enterprise
+*.1s linguist-language=1C Enterprise
 * text=auto
